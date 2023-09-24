@@ -1,4 +1,6 @@
 """ PyTorch ChatGLM model. """
+### https://zhuanlan.zhihu.com/p/629626558
+### https://blog.csdn.net/v_JULY_v/article/details/129880836
 
 import math
 import copy
